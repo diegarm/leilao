@@ -16,6 +16,7 @@ namespace Alura.LeilaoOnline.WebApp.Controllers
         public LeilaoController()
         {
             _context = new AppDbContext();
+
         }
 
         private IEnumerable<Categoria> BuscarCategorias()
