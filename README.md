@@ -1,2 +1,2 @@
-# Projeto para o curso de SOLID com CSharp
+# Projeto de Leilao
 
